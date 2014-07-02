@@ -1,0 +1,17 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "async": "^0.8.0",
+    "express": "3.4.8",
+    "jade": "*",
+    "mongoose": "^3.8.9",
+    "randomstring": "~1.0.3",
+    "underscore": "^1.6.0",
+    "validator": "^3.16.0"
+  }
+}
